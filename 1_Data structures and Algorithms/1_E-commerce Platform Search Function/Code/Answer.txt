@@ -1,0 +1,11 @@
+1.1 Explain Big O notation and how it helps in analyzing algorithms.
+Answer: It is a way to describe the upper bound of an algorithm's running time or space usage as the input size grows.
+1.2 Describe the best, average, and worst-case scenarios for search operations.
+Answer: Best - O(1), 
+Worst- Binary[O(logn)], Linear[O(n)], 
+Average - Binary[O(logn)], Linear[O(n)]
+
+4.1 Compare the time complexity of linear and binary search algorithms.
+Answer: Time complexity of linear search is O(n) and binary search is O(logn). So binary search is more optimized when the array is sorted.
+4.2	Discuss which algorithm is more suitable for your platform and why.
+Answer: In the given scenario binary search will be suitable because we can stor the products in sorted order of productId while storing so while searching we can easily find applying binary search.

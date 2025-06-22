@@ -1,0 +1,7 @@
+1. Explain the concept of recursion and how it can simplify certain problems.
+Answer: It is a programming technique where a function calls itself to solve a problem. It works by breaking down a complex problem into smaller, self-similar subproblems until a simple base case is reached.
+
+4.1 Discuss the time complexity of your recursive algorithm.
+Answer: The time complexity is O(n^2)
+4.2 Explain how to optimize the recursive solution to avoid excessive computation.
+Answer: The recursive solution can be optimized by applying dynamic programming concept where we store a solution and use it later to solve a problem.
